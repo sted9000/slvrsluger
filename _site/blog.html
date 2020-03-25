@@ -7,6 +7,7 @@
     <meta name="description" content="slvrsluger's experimental poker blog" />
     <title>Blog</title>
     <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/cards.css" />
     <link href="http://localhost:4000" rel="alternate" type="application/atom+xml">
     <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="slvrsluger" />
     <!-- Begin Jekyll SEO tag v2.5.0 -->
@@ -29,11 +30,18 @@
   </head>
   <body>
     <header>
-  <button class="hamburger hamburger--slider" type="button" name="expand-menu-button">
-    <span class="hamburger-box">
-      <span class="hamburger-inner"></span>
-    </span>
-  </button>
+  <div class="mobile-header">
+    <div>
+      <a href="/">slvrsluger</a>
+    </div>
+    <div class="toggle">
+      <span>
+        <i></i>
+        <i></i>
+        <i></i>
+      </span>
+    </div>
+  </div>
   <nav class="desktop-nav">
     
       <a href="/">
@@ -48,14 +56,6 @@
         <div>
           <p>
             About
-          </p>
-        </div>
-      </a>
-    
-      <a href="/graphs">
-        <div>
-          <p>
-            Graphs
           </p>
         </div>
       </a>
@@ -76,17 +76,36 @@
         </div>
       </a>
     
+      <a href="/graphs">
+        <div>
+          <p>
+            Graphs
+          </p>
+        </div>
+      </a>
+    
   </nav>
 </header>
+
     <div class="wrapper">
       <div class="mendokusai">
   <h1>Blog</h1>
   <p>
-      These blogs will be my poker journal. Rough ideas, hard to believe stories, and interesting characters will be found here. In the end, I hope this is a place where I can come back to and accurately recall the meaningful parts of the adventure.
+      These blogs will be my poker field journal. Rough ideas, stories, emotions, and interesting characters will be found here. In the end, I hope this is a place where I can come back to accurately recall the meaningful parts of the adventure.
   </p>
 
   <ul class="recent-posts">
     
+      <li>
+        <h4><a href="/blog/2020/03/25/hand-of-day">Hand of the Day - 1</a></h4>
+        <span>25 Mar 2020 | .5/1, 150bb, hu, river, srp</span>
+      </li>
+      
+      <li>
+        <h4><a href="/blog/2020/03/06/Run-It-Once-Reason">Run It Once - A Reasonable Reason</a></h4>
+        <span>06 Mar 2020 | </span>
+      </li>
+      
   </ul>
 
   <p>
@@ -97,7 +116,7 @@
 
     </div>
     <footer>
-  &#169; slvrsluger 2020 | Licensed under GPL-3.0
+  &#169; slvrsluger 2020 | Licensed under GPL-3.0 | Template Designed by Jonny Spicer
 </footer>
 
     <script type="text/javascript" src="/assets/js/global.js"></script>

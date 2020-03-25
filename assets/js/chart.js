@@ -1,7 +1,9 @@
-// labels array
+// fixed data
 let months = ['June', 'July', 'August', 'September', 'October', 'November', 'December']
-let locations = ['Borgata', 'Aria', 'Rio', 'Parx', 'Rivers']
+let locations = ['Aria', 'Rio', 'Wynn', 'Venetian']
 let commuteRanges = ['0-15', '15-30', '30-45', '45-60', '>60']
+
+// evolving data
 
 // monthly overall
 var ctx = document.getElementById('overall').getContext('2d');

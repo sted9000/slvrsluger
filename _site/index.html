@@ -7,6 +7,7 @@
     <meta name="description" content="slvrsluger's experimental poker blog" />
     <title>slvrsluger</title>
     <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/cards.css" />
     <link href="http://localhost:4000" rel="alternate" type="application/atom+xml">
     <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="slvrsluger" />
     <!-- Begin Jekyll SEO tag v2.5.0 -->
@@ -29,11 +30,18 @@
   </head>
   <body>
     <header>
-  <button class="hamburger hamburger--slider" type="button" name="expand-menu-button">
-    <span class="hamburger-box">
-      <span class="hamburger-inner"></span>
-    </span>
-  </button>
+  <div class="mobile-header">
+    <div>
+      <a href="/">slvrsluger</a>
+    </div>
+    <div class="toggle">
+      <span>
+        <i></i>
+        <i></i>
+        <i></i>
+      </span>
+    </div>
+  </div>
   <nav class="desktop-nav">
     
       <a href="/">
@@ -48,14 +56,6 @@
         <div>
           <p>
             About
-          </p>
-        </div>
-      </a>
-    
-      <a href="/graphs">
-        <div>
-          <p>
-            Graphs
           </p>
         </div>
       </a>
@@ -76,8 +76,17 @@
         </div>
       </a>
     
+      <a href="/graphs">
+        <div>
+          <p>
+            Graphs
+          </p>
+        </div>
+      </a>
+    
   </nav>
 </header>
+
     <div class="wrapper">
       <h1><center>slvrsluger | a poker blog</center></h1>
 <!-- <p>
@@ -85,26 +94,18 @@
     Everything from graphs to the tales of misteps, struggles, and degeneracy will be placed here in a
     time-capsule of sorts - a persisting and accurate reflection of what mattered most to those who created it.
 </p> -->
-<p>
-    Welcome to my experimental poker blog. Here you will find graphs, thoughts, PLO analysis, and an honest account of my journey on <a>Poker Mountain</a>.
-</p>
-<p>
-    I recently moved back to the united states and am giving live pot-limit-omaha [the greate game] an honest shot after nearly a decade of living abroad and playing <i>professionally</i> online.
-</p>
+<p>Welcome to my experimental poker blog where you will find analysis, a daily blog, and graphs that are hopefully an honestly account of my journey on Poker Mountain.</p>
+<p>I recently moved back to the united states and am giving live pot-limit-omaha [the greate game] an honest shot after nearly a decade of living abroad and playing <i>professionally</i> online.</p>
 
-
-<div class="recent-posts recent-posts-mendokusai">
-  <h2>The Mountain (its alive)</h2>
-  <canvas id="overall"></canvas>
-  <br />
-  <p>
-    <a class="read-more" href="/graphs">Click here to view more graphs!</a>
-  </p>
-</div>
-
-<hr>
+<!-- Analysis -->
 <div class="recent-posts recent-posts-analysis">
   <h2>Latest Post in Analysis</h2>
+    
+    <div class="post-snippet">
+      <h4><a href="/analysis/2020/03/18/calling_3bets">Calling 3Bets</a></h4>
+      <span>18 Mar 2020 | 3bp, gambit, online, strategy</span>
+      <p>I’m old enough to have been around when the revolutionary idea that you should fold to some three-bets in six-max pot-limit-omaha came about. Revolution had two main tenants. One, Axxx hands did poorly enough against three-betting ranges to warrant a fold. And secondly, that some of the weakest one-way or none-nut hands you open such as raggy kings or the worst of the single suited rundowns couldn’t stand the heart either and should be folded....</p>
+    </div>
     
   <p>
     <a class="read-more" href="/analysis">Click here to see more analysis</a>
@@ -112,17 +113,37 @@
 </div>
 
 <hr />
+
+<!-- Blog -->
 <div class="recent-posts recent-posts-blog">
   <h2>Latest Blog Post</h2>
+    
+    <div class="post-snippet">
+      <h4><a href="/blog/2020/03/25/hand-of-day">Hand of the Day - 1</a></h4>
+      <span>25 Mar 2020 | .5/1, 150bb, hu, river, srp</span>
+      <p>I thought I would start of the Hand of the Day series with a fun hand that illustrates a point that I have been thinking a lot about recently. 180bb deep with the fun player who straddles to 8bb on our direct left in the cutoff. Folds to us and...</p>
+    </div>
     
   <p>
     <a class="read-more" href="/blog">Click here to read more posts</a>
   </p>
 </div>
 
+
+<!-- <hr /> -->
+<!-- Graph -->
+<!-- <div class="recent-posts recent-posts-mendokusai">
+  <h2>Latest Overall Graph</h2>
+  <canvas id="overall"></canvas>
+  <br />
+  <p>
+    <a class="read-more" href="/graphs">Click here to view more graphs!</a>
+  </p>
+</div>  -->
+
     </div>
     <footer>
-  &#169; slvrsluger 2020 | Licensed under GPL-3.0
+  &#169; slvrsluger 2020 | Licensed under GPL-3.0 | Template Designed by Jonny Spicer
 </footer>
 
     <script type="text/javascript" src="/assets/js/global.js"></script>

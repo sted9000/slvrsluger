@@ -114,3 +114,16 @@ blockquote{
     display: inline;
   }
 }
+
+
+img[src*="#3cards"] {
+   width:32%;
+}
+
+img[src*="#5cards"] {
+   width:19%;
+}
+
+img[src*="#inline"] {
+   width:2.5em;
+}

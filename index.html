@@ -8,31 +8,17 @@ layout: default
     Everything from graphs to the tales of misteps, struggles, and degeneracy will be placed here in a
     time-capsule of sorts - a persisting and accurate reflection of what mattered most to those who created it.
 </p> -->
-<p>
-    Welcome to my experimental poker blog. Here you will find graphs, thoughts, PLO analysis, and an honest account of my journey on <a>Poker Mountain</a>.
-</p>
-<p>
-    I recently moved back to the united states and am giving live pot-limit-omaha [the greate game] an honest shot after nearly a decade of living abroad and playing <i>professionally</i> online.
-</p>
+<p>Welcome to my experimental poker blog where you will find analysis, a daily blog, and graphs that are hopefully an honestly account of my journey on Poker Mountain.</p>
+<p>I recently moved back to the united states and am giving live pot-limit-omaha [the greate game] an honest shot after nearly a decade of living abroad and playing <i>professionally</i> online.</p>
 
-
-<div class="recent-posts recent-posts-mendokusai">
-  <h2>The Mountain (its alive)</h2>
-  <canvas id="overall"></canvas>
-  <br />
-  <p>
-    <a class="read-more" href="{{ base.url }}/graphs">Click here to view more graphs!</a>
-  </p>
-</div>
-
-<hr>
+<!-- Analysis -->
 <div class="recent-posts recent-posts-analysis">
   <h2>Latest Post in Analysis</h2>
     {% for post in site.categories.analysis offset: 0 limit: 1 %}
     <div class="post-snippet">
       <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
       <span>{{ post.date | date_to_string }} | {{ post.tags | sort | join: ", " }}</span>
-      <p>{{ post.content | strip_html | truncatewords: 100 }}</p>
+      <p>{{ post.content | strip_html | truncatewords: 75 }}</p>
     </div>
     {% endfor %}
   <p>
@@ -41,16 +27,30 @@ layout: default
 </div>
 
 <hr />
+
+<!-- Blog -->
 <div class="recent-posts recent-posts-blog">
   <h2>Latest Blog Post</h2>
     {% for post in site.categories.blog offset: 0 limit: 1 %}
     <div class="post-snippet">
       <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
       <span>{{ post.date | date_to_string }} | {{ post.tags | sort | join: ", " }}</span>
-      <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </div>
     {% endfor %}
   <p>
     <a class="read-more" href="{{ base.url }}/blog">Click here to read more posts</a>
   </p>
 </div>
+
+
+<!-- <hr /> -->
+<!-- Graph -->
+<!-- <div class="recent-posts recent-posts-mendokusai">
+  <h2>Latest Overall Graph</h2>
+  <canvas id="overall"></canvas>
+  <br />
+  <p>
+    <a class="read-more" href="{{ base.url }}/graphs">Click here to view more graphs!</a>
+  </p>
+</div>  -->
