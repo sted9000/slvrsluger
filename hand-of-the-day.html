@@ -1,0 +1,24 @@
+---
+layout: default
+title: Hand of The Day
+permalink: /hand-of-the-day
+---
+<div class="mendokusai">
+  <h1>{{ page.title }}</h1>
+  <p>I intend to post a hand here everyday until the endtimes (I am writing this amid the COVID-19 pandemic, so that may be sooner rather than later). Some hands will highlight strategic aspects that I think are interesting. Some will be hands that I am unsure about. Some will shamelessly plug my training site <a href='https://gambitplo.com'>gambitPLO</a>. Some will be taken from poker forums. Maybe even some high-stakes hands for good fun.
+  </p>
+
+  <ul class="recent-posts">
+    {% for post in site.categories.hand-of-the-day offset: 0 limit: 100 %}
+      <li>
+        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <span>{{ post.date | date_to_string }} | {{ post.tags | sort | join: ", " }}</span>
+      </li>
+      {% endfor %}
+  </ul>
+
+  <p>
+    If you want to read more, check out the <a href="{{ base.url }}/hand-of-the-day/archives">
+    archives.</a>
+  </p>
+</div>

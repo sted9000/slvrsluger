@@ -42,4 +42,4 @@ The idea is this: We do not have a hand that can call **and** we don't have any 
 
 I am not sure about the math here: How often does he have QQ or TT that will never fold vs hands like a bare T or even other boats like QT that can consider folding. My intuition says that a lot of Txxx bets because vs the population at .5/1 it is murder not to. You get called by worse very often.
 
-This time it worked. Tank.......fold. 
+This time it worked. Tank.......fold.

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Analysis Archives
-permalink: /analysis/archives
+title: Hand of the Day Archives
+permalink: /hand-of-the-day/archives
 ---
 <div class="archives">
   <h1>{{ page.title }}</h1>
 
   <ul class="archive-list">
-    {% for post in site.categories.analysis %}
+    {% for post in site.categories.hand-of-the-day %}
       {% assign currentdate = post.date | date: "%B %Y" %}
       {% if currentdate != date %}
         {% unless forloop.first %}</ul>{% endunless %}

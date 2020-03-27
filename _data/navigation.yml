@@ -2,9 +2,9 @@
   link: /
 - name: About
   link: /about
-- name: Analysis
-  link: /analysis
+- name: Hand of The Day
+  link: /hand-of-the-day
 - name: Blog
   link: /blog
-- name: Graphs
-  link: /graphs
+# - name: Graphs
+#   link: /graphs

@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-25T19:49:44-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">slvrsluger</title><subtitle>slvrsluger's experimental poker blog</subtitle><entry><title type="html">Hand of the Day - 1</title><link href="http://localhost:4000/blog/2020/03/25/hand-of-day" rel="alternate" type="text/html" title="Hand of the Day - 1" /><published>2020-03-25T00:00:00-03:00</published><updated>2020-03-25T00:00:00-03:00</updated><id>http://localhost:4000/blog/2020/03/25/hand-of-day</id><content type="html" xml:base="http://localhost:4000/blog/2020/03/25/hand-of-day">&lt;p&gt;I thought I would start of the &lt;em&gt;Hand of the Day&lt;/em&gt; series with a fun hand that illustrates a point that I have been thinking a lot about recently.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-27T15:59:23-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">slvrsluger</title><subtitle>slvrsluger's experimental poker blog</subtitle><entry><title type="html">Hand of the Day - 2</title><link href="http://localhost:4000/hand-of-the-day/2020/03/26/hand-of-day" rel="alternate" type="text/html" title="Hand of the Day - 2" /><published>2020-03-26T00:00:00-03:00</published><updated>2020-03-26T00:00:00-03:00</updated><id>http://localhost:4000/hand-of-the-day/2020/03/26/hand-of-day</id><content type="html" xml:base="http://localhost:4000/hand-of-the-day/2020/03/26/hand-of-day">&lt;p&gt;So this hand I am not sold on my play, but I like the point that it illustrates.&lt;/p&gt;
+
+&lt;p&gt;MP we hold&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cards/AH.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/KC.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/QS.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/JH.svg#inline&quot; alt=&quot;card-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;EP Limps, we isolate, short button flats, sb regular flats, limper comes along to the flop (4way)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cards/QD.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/TS.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/3H.svg#inline&quot; alt=&quot;card-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sizing here is interesting, I chose small to keep in the class of hands &lt;em&gt;pair + draw&lt;/em&gt; of which I dominate most of. Only sb regular flats.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cards/QD.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/TS.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/3H.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/TD.svg#inline&quot; alt=&quot;card-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Check, check&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cards/QD.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/TS.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/3H.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/TD.svg#inline&quot; alt=&quot;card-image&quot; /&gt;
+&lt;img src=&quot;/assets/cards/2S.svg#inline&quot; alt=&quot;card-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sb bets 1/2 pot, we 3x that bet (one new-pots size bet, betting 1 to win 1, needs to work 1/2 the time to break even).&lt;/p&gt;
+
+&lt;p&gt;The idea is this: We do not have a hand that can call &lt;strong&gt;and&lt;/strong&gt; we don’t have any pure bluffs in our range (becasue we cbet the flop into 3 players, two of whom are recreational). In these spots I ask &lt;em&gt;is this player a decent hand reader and able to fold strong absolute hands&lt;/em&gt; if the answer is yes and yes, I consider going for it.&lt;/p&gt;
+
+&lt;p&gt;I am not sure about the math here: How often does he have QQ or TT that will never fold vs hands like a bare T or even other boats like QT that can consider folding. My intuition says that a lot of Txxx bets because vs the population at .5/1 it is murder not to. You get called by worse very often.&lt;/p&gt;
+
+&lt;p&gt;This time it worked. Tank…….fold.&lt;/p&gt;</content><author><name>slvrsluger</name></author><category term=".5/1" /><category term="river" /><category term="srp" /><category term="multiway" /><category term="100bb" /><summary type="html">So this hand I am not sold on my play, but I like the point that it illustrates.</summary></entry><entry><title type="html">Hand of the Day - 1</title><link href="http://localhost:4000/hand-of-the-day/2020/03/25/hand-of-day" rel="alternate" type="text/html" title="Hand of the Day - 1" /><published>2020-03-25T00:00:00-03:00</published><updated>2020-03-25T00:00:00-03:00</updated><id>http://localhost:4000/hand-of-the-day/2020/03/25/hand-of-day</id><content type="html" xml:base="http://localhost:4000/hand-of-the-day/2020/03/25/hand-of-day">&lt;p&gt;I thought I would start of the &lt;em&gt;Hand of the Day&lt;/em&gt; series with a fun hand that illustrates a point that I have been thinking a lot about recently.&lt;/p&gt;
 
 &lt;p&gt;180bb deep with the fun player who straddles to 8bb on our direct left in the cutoff. Folds to us and we pot to 24bb with:&lt;/p&gt;
 
