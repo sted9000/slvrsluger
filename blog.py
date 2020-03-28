@@ -40,12 +40,18 @@ if situation in ['flop', 'turn', 'river']:
 
 # card size
 card_html_list = []
-for card in holecards_list + boardcards_list:
-    formatted_cards = card[0] + card[1].capitalize()
-    card_html_list.append(f'/assets/cards/{formatted_cards}.svg')
+try:
+    for card in holecards_list + boardcards_list:
+        formatted_cards = card[0] + card[1].capitalize()
+        card_html_list.append(f'/assets/cards/{formatted_cards}.svg')
+
+except NameError:
+   for card in holecards_list:
+       formatted_cards = card[0] + card[1].capitalize()
+       card_html_list.append(f'/assets/cards/{formatted_cards}.svg')
 
 # write file
-f = open((Path / 'blog' / '_posts' / f'{date}-hand-of-day.md'), 'x')
+f = open((Path / 'hand-of-the-day' / '_posts' / f'{date}-hand-of-day.md'), 'x')
 f.write('---\n')
 f.write(f'date: {date}\n')
 f.write(f'layout: {layout}\n')
