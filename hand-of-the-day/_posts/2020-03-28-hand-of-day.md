@@ -21,7 +21,7 @@ Only the reg calls
 ![card-image](/assets/cards/QC.svg#inline)
 ![card-image](/assets/cards/8D.svg#inline)
 
-Check, check (this is a stop I am not too sure about, but my thinking is that he has more KK, QQ and KQ combos than I do)
+Check, check (this is a spot I am not too sure about, but my thinking is that he has a few more nutty combos than I do)
 
 ![card-image](/assets/cards/KD.svg#inline)
 ![card-image](/assets/cards/QC.svg#inline)
