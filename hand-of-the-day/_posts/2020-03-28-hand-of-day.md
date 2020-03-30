@@ -36,7 +36,13 @@ Pot, we call
 ![card-image](/assets/cards/2C.svg#inline)
 ![card-image](/assets/cards/3C.svg#inline)
 
-All in (3/5pot), we call
+All in (3/5pot), we call, he shows:
+
+![card-image](/assets/cards/9S.svg#inline)
+![card-image](/assets/cards/8H.svg#inline)
+![card-image](/assets/cards/5S.svg#inline)
+![card-image](/assets/cards/5H.svg#inline)
+
 
 Still as I am writing this I am attempting to justify his play. But I can't, it's just bad.
 
