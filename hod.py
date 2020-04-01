@@ -1,11 +1,14 @@
 from pathlib import Path
 import datetime
+import os
+
 Path = Path('.')
 author = 'slvrsluger'
 now = datetime.datetime.now()
 date = now.strftime('%Y-%m-%d')
 layout = 'blog'
 sizes = ['inline', '5cards']
+hand_number = str(1 + len([name for name in os.listdir(Path / 'hand-of-the-day' / '_posts') if os.path.isfile(os.path.join(Path / 'hand-of-the-day' / '_posts', name))]))
 
 # stakes (.5/1, 1/2)
 stakes = ['.5/1', '1/2']
@@ -56,7 +59,7 @@ f.write('---\n')
 f.write(f'date: {date}\n')
 f.write(f'layout: {layout}\n')
 f.write(f'author: {author}\n')
-f.write(f'title: TITLE-HERE\n')
+f.write(f'title: Hand of the Day - {hand_number}\n')
 f.write('tags: ')
 for i, tag in enumerate([stake, situation, pot_type, player, stack]):
     if i+1 != 5: f.write(tag + ' ')
