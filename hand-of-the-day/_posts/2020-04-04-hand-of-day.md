@@ -16,6 +16,7 @@ Open CO, BN reg 3b, BB flat, I flat with:
 ![card-image](/assets/cards/7S.svg#inline)
 
 Flop:
+
 ![card-image](/assets/cards/QH.svg#inline)
 ![card-image](/assets/cards/9H.svg#inline)
 ![card-image](/assets/cards/2H.svg#inline)
