@@ -39,7 +39,7 @@ I bet 2/3p when checked to and BB calls. River runs out
 And we face a 3/4p bet. We call and see...
 
 ![card-image](/assets/cards/KC.svg#5cards)
-![card-image](/assets/cards/Qc.svg#5cards)
+![card-image](/assets/cards/QC.svg#5cards)
 ![card-image](/assets/cards/JS.svg#5cards)
 ![card-image](/assets/cards/9D.svg#5cards)
 
