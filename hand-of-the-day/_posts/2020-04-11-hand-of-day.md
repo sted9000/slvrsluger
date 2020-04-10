@@ -1,8 +1,8 @@
 ---
-date: 2020-04-10
+date: 2020-04-11
 layout: blog
 author: slvrsluger
-title: Hand of the Day - 17
+title: Hand of the Day - 18
 tags: vision 4bp
 ---
 
