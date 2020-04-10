@@ -15,6 +15,7 @@ Situation: 100bb, 4bp, COvBN
 ![card-image](/assets/cards/6H.svg#5cards)
 
 OP: ch 6%; small 6%; pot 88%
+
 IP vs Pot: fold 36%; call 64%
 
 Interesting findings OP:
