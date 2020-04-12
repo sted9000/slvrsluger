@@ -6,7 +6,7 @@ title: Hand of the Day - 20
 tags: video 3bp strategy
 ---
 
-I break from [Vision](https://www.runitonce.com/vision/) practice.
+A break from [Vision](https://www.runitonce.com/vision/) practice.
 
 Today's hand and concept is from a video by Richard Gryko.
 
