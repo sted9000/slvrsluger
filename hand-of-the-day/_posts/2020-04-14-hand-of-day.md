@@ -12,7 +12,7 @@ Situation: 100bb, 4bp, COvBN
 
 ![card-image](/assets/cards/QS.svg#5cards)
 ![card-image](/assets/cards/7H.svg#5cards)
-![card-image](/assets/cards/6c.svg#5cards)
+![card-image](/assets/cards/6C.svg#5cards)
 
 This is the first rainbow board that I am exploring
 
