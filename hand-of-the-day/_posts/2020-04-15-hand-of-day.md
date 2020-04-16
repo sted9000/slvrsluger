@@ -21,7 +21,7 @@ Today my initial thoughts about OP and tomorrow we will continue to explore this
 OP Inicial Thoughts (checking 48; betting 52)
 
 1. Looks like he is betting a lot of one pair + live card hands like QJT9, but checking the AKQJ. Still not sure why.
-2. As we say in previous ss flops OP is checking Strong hands + NFD
+2. As we saw in previous ss flops OP is checking Strong hands + NFD
 3. Betting hands that have equity advantage now but are troublesome on turns: 9976, AQ65
 
 The question for tomorrow is: What hands are checking and calling vs IP betting range? This makes up around 25% of our range than gets to the flop.
