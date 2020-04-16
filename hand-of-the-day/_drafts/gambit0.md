@@ -19,11 +19,11 @@ I guess it is a clear fold (I opened in-game and then thought it to be too loose
 
 Gambit says... Past me was correct!
 
-![card-image](/assets/cards/AT86ss.png)
+![gambit image](/assets/img/AT86ss.png)
 
 And lets reverse it today: How does adding the _tri-suit_ effect it?
 
-![card-image](/assets/cards/AT86sss.png)
+![gambit image](/assets/img/AT86sss.png)
 
 Still opening, but right on the cusp.
 

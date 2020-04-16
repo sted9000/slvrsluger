@@ -19,11 +19,11 @@ I guess it is a close open.
 
 Gambit says...
 
-![card-image](/assets/cards/AQ84sss.png)
+![gambit image](/assets/img/AQ84sss.png)
 
 Let's see how removing the _tri-suit_ effect it?
 
-![card-image](/assets/cards/AQ84ss.png)
+![gambit image](/assets/img/AQ84ss.png)
 
 Now all non _toxic combos_ become opens.
 
