@@ -13,7 +13,7 @@ BNvCO, 100bb, GG Poker
 ![card-image](/assets/cards/AS.svg#5cards)
 ![card-image](/assets/cards/QH.svg#5cards)
 ![card-image](/assets/cards/9S.svg#5cards)
-![card-image](/assets/cards/4c.svg#5cards)
+![card-image](/assets/cards/4C.svg#5cards)
 
 This is pretty raggy as far as suited Axxx go. My predition is that it is still an open. This means that pretty much all A + Broadway combos are.
 
