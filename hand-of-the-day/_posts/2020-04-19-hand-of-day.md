@@ -19,11 +19,11 @@ Still makes top set some small percentage of the time... Going to be close
 
 Gambit says...
 
-![gambit image](assets/img/JJ-flat-co-ep.png)
+![gambit image](/assets/img/JJ-flat-co-ep.png)
 
 Just outside the flatting range. Question how does being on the button change the JJ flatting range.
 
-![gambit image](assets/img/JJ-flat-bn-ep.png)
+![gambit image](/assets/img/JJ-flat-bn-ep.png)
 
 Now we are flatting a bit more. All reasonably connected JJxxss and JJ[B]xss
 

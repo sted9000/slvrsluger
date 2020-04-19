@@ -19,7 +19,7 @@ This is pretty raggy as far as suited Axxx go. My predition is that it is still 
 
 Gambit says...
 
-![gambit image](assets/img/AQ94_vsCO.png)
+![gambit image](/assets/img/AQ94_vsCO.png)
 
 Wrong! And it is interesting that we are 3betting some of these hands.
 
