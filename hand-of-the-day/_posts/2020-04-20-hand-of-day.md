@@ -10,7 +10,7 @@ Today's hands come from a RIO Training Video
 
 EP, 100bb, RIO Poker
 
-![gambit image](/assets/img/A762ds-ep.png)
+![gambit image](/assets/img/A764ds-ep.png)
 
 On the cusp, but still a clear open @ > 20bb/100
 
