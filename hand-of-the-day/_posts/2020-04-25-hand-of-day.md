@@ -1,8 +1,8 @@
 ---
-date: 2020-04-XX
+date: 2020-04-25
 layout: blog
 author: slvrsluger
-title: Hand of the Day - XX
+title: Hand of the Day - 32
 tags:
 ---
 
