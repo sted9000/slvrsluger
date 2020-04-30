@@ -1,9 +1,9 @@
 ---
-date: 2020-04-XX
+date: 2020-04-30
 layout: blog
 author: slvrsluger
-title: Hand of the Day - XX
-tags:
+title: Hand of the Day - 37
+tags: gambit preflop
 ---
 And as the last hand of the day (at least in this iteration of it). A trivial and useless exercise, much like this whole endeavor. Not my best work. I learned (what not to do).
 
@@ -14,4 +14,6 @@ And as the last hand of the day (at least in this iteration of it). A trivial an
 
 GambitPLO says:
 
-![card-image](/assets/cards/AQJ8ssbad-ep.png)
+![card-image](/assets/img/AQJ8ssbad-ep.png)
+
+Until Next Time. Be well.
